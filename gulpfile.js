@@ -4,7 +4,7 @@ var gulp = require('gulp');
 var concat = require('gulp-concat');
 var cleanCSS = require('gulp-clean-css');
 
-// list of files source fo the task
+// list of files source for the task
 var css_files = [
  'css/base.css',
  'css/dark-theme.css',
